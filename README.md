@@ -1,0 +1,32 @@
+# Roguelike 3D Mobile Action RPG 🗡️
+**A 3D Mobile Roguelike Action RPG (Graduation Project)**
+
+## 📖 About The Project
+This project is a 3D mobile action RPG developed as a graduation project. It aims to combine the deep, skill-based gameplay of the roguelike genre with a minimalist, one-handed control scheme tailored for mobile platforms. In this game, players navigate through challenging dungeon rooms, face diverse enemy types, and defeat powerful bosses while continuously upgrading their character through a rich, randomized ability selection system.
+
+## 📸 Gameplay & Visuals
+
+*(Oyunun oynanış GIF'i veya ekran görüntüleri buraya gelecek)*
+
+## ✨ Core Features
+* **One-Handed Mobile Controls:** Intuitive virtual joystick movement with an auto-aim system. The character automatically targets and attacks the nearest enemy when movement stops.
+* **Roguelike Progression:** 40 challenging rooms, diverse enemy encounters, and a dynamic skill selection system that resets upon death, ensuring every run is unique.
+* **Permanent Upgrades:** A robust save system allows players to keep their collected gold to purchase permanent stat boosts and unlock new weapons in the main menu.
+* **Complex Enemy AI:** 4 unique enemy archetypes (Melee, Tank, Runner, Archer) and 6 distinct Boss encounters, all driven by Unity's NavMesh system.
+* **Component-Based Architecture:** Clean, modular C# codebase utilizing Object Pooling for performance optimization and ScriptableObjects for data management.
+
+## 🛠️ Built With
+* **Game Engine:** Unity 2022
+* **Language:** C#
+* **Architecture:** Component-Based, Object Pooling, ScriptableObjects
+
+## 🚀 Getting Started
+To open and test this project in Unity:
+
+1. Clone the repository:
+```sh
+git clone https://github.com/erenatasvn/roguelike-3d-mobile.git
+```
+2. Open Unity Hub.
+3. Click on **Open** -> **Add project from disk** and select the cloned folder.
+4. Open `Assets/Scenes/MainMenu.unity` to start playing!

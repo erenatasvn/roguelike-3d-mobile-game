@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 950749d376b1fde4c971e5f56c328e60
+timeCreated: 1473858336
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73777
+  packageName: Legacy Particle Pack
+  packageVersion: 6.0
+  assetPath: Assets/UnityTechnologies/ParticlePack/EffectExamples/Goop Effects/Materials/BloodSplashParticle.mat
+  uploadId: 871050

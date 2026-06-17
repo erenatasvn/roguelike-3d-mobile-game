@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d032ef94cb7bb8a4b968e18c079fe3e8, type: 3}
+  m_Name: Data_Sword
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponID: Data_Sword
+  type: 0
+  elementType: 0
+  weaponName: "\xC7\u0131rak K\u0131l\u0131c\u0131"
+  damage: 25
+  attackRate: 1
+  range: 4
+  weaponModel: {fileID: 4394045699979071216, guid: 64151aca4acffef46845ff8299d70b34, type: 3}
+  projectilePrefab: {fileID: 2805765508506850202, guid: 03904c41fb07f494e87d61cd08577d44, type: 3}
+  projectileSpeed: 20

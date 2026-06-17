@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504133ac19e5cb048b99f56c8a513c19, type: 3}
+  m_Name: Ability_Multishot
+  m_EditorClassIdentifier: Assembly-CSharp::AbilityData
+  id: 9
+  displayName: Multishot
+  description: "Her at\u0131\u015Fta 2 ok f\u0131rlat\u0131r. Ate\u015F h\u0131z\u0131
+    %15 d\xFC\u015Fer."
+  category: 1
+  rarity: 2
+  maxStacks: 1
+  weight: 0.4

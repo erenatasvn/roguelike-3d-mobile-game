@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504133ac19e5cb048b99f56c8a513c19, type: 3}
+  m_Name: Ability_SwordSweep
+  m_EditorClassIdentifier: Assembly-CSharp::AbilityData
+  id: 26
+  displayName: "Geni\u015F Vuru\u015F"
+  description: "K\u0131l\u0131c\u0131nla geni\u015F bir yay \xE7izerek \xF6n\xFCndeki
+    t\xFCm d\xFC\u015Fmanlara hasar verirsin."
+  category: 1
+  rarity: 1
+  maxStacks: 1
+  weight: 1.5

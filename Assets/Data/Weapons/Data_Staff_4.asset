@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d032ef94cb7bb8a4b968e18c079fe3e8, type: 3}
+  m_Name: Data_Staff_4
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponID: Data_Staff_4
+  type: 1
+  elementType: 0
+  weaponName: "Ba\u015Fb\xFCy\xFCc\xFC Asas\u0131"
+  damage: 130
+  attackRate: 0.75
+  range: 10
+  weaponModel: {fileID: 3113503389067597537, guid: d1b0751aec33bd84cb39dc1c6393e276, type: 3}
+  projectilePrefab: {fileID: 7654132459705402359, guid: a54e02daaa187114a8d44e3181f7df31, type: 3}
+  projectileSpeed: 18
