@@ -3,7 +3,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "NewWeapon", menuName = "ScriptableObjects/WeaponData")]
 public class WeaponData : ScriptableObject
 {
-    public string weaponID; // Dükkanla eşleşecek benzersiz ID (Örn: Data_Axe_Kazma)
+    public string weaponID; // Dükkanla eşleşecek ID 
 
     public enum WeaponType { Sword, Staff, Axe }
     public WeaponType type; // Silahın tipi

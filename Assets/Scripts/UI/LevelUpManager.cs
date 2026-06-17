@@ -8,7 +8,7 @@ public class LevelUpManager : MonoBehaviour
     public GameObject levelUpPanel;
 
     [Header("Yetenek Havuzu")]
-    public List<AbilityData> abilityPool; // Inspector'dan tüm AbilityData SO'larını sürükle
+    public List<AbilityData> abilityPool; // Inspector'dan tüm AbilityData SO'larını sürüklenir
 
     [Header("UI Butonları (3 adet)")]
     public Button[] abilityButtons;           // 3 buton
@@ -139,7 +139,7 @@ public class LevelUpManager : MonoBehaviour
             // Ok/fırlatma yetenekleri kılıçta çıkmasın
             if (IsProjectileAbility(a.id) && wType == WeaponData.WeaponType.Sword) continue;
 
-            // Piercing ve Ricochet SADECE Asa'da (Staff) çıksın (Balta ve Kılıçta çıkmaz)
+            // Piercing ve Ricochet SADECE Asa'da (Staff) çıksın (Balta ve Kılıçta çıkma)
             if ((a.id == AbilityID.Ricochet || a.id == AbilityID.Piercing) && wType != WeaponData.WeaponType.Staff) continue;
 
             // Kılıç özel yetenekleri yay/balta da çıkmasın

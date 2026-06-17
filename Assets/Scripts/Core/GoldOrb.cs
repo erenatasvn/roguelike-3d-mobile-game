@@ -57,7 +57,7 @@ public class GoldOrb : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        // Sadece Player tagli obje toplayabilir
+        // Sadece Player toplayabilir
         if (!other.CompareTag("Player")) return;
 
         CollectGold();

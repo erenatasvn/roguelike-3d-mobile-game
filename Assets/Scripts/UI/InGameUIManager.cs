@@ -41,7 +41,7 @@ public class InGameUIManager : MonoBehaviour
 
     private System.Collections.IEnumerator CountdownCoroutine()
     {
-        // Zaman durur (boylece oyuncu ve dusmanlar hareket edemez) ama coroutine Time.timeScale'den bagimsiz calisir
+        // Zaman durur (boylece oyuncu ve dusmanlar hareket edemez) 
         Time.timeScale = 0f; 
         if (panel_Countdown != null) panel_Countdown.SetActive(true);
 
