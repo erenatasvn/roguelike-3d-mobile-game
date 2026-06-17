@@ -6,7 +6,12 @@ This project is a 3D mobile action RPG developed as a graduation project. It aim
 
 ## 📸 Gameplay & Visuals
 
-*(Oyunun oynanış GIF'i veya ekran görüntüleri buraya gelecek)*
+<img width="300" alt="18_Character_Panel" src="https://github.com/user-attachments/assets/e84a3370-d278-4f27-9e48-3fd038742f1b" />
+<img width="300" alt="14_MainMenu_Screen" src="https://github.com/user-attachments/assets/c67059f9-84de-4493-a83a-16781d86509b" />
+<img width="300" alt="21_BossRoom_UI" src="https://github.com/user-attachments/assets/508d1c3f-0935-4e9e-a65d-d61564186005" />
+<img width="300" alt="20_LevelUp_Screen" src="https://github.com/user-attachments/assets/6781c027-09f5-4853-93d4-67a8a8d5389f" />
+<img width="300" alt="19_Gameplay_Action" src="https://github.com/user-attachments/assets/aab4fbc7-0ab9-488b-be50-ab31ce1b6d3e" />
+
 
 ## ✨ Core Features
 * **One-Handed Mobile Controls:** Intuitive virtual joystick movement with an auto-aim system. The character automatically targets and attacks the nearest enemy when movement stops.
